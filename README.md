@@ -14,8 +14,7 @@ Here provided with a large number of Wikipedia comments which have been labeled 
 
 You must create a model which predicts a probability of each type of toxicity for each comment.
 
-Solution Code with Output : 
+Solution Code on Online Kernel : 
 https://www.kaggle.com/bcs013/simple-stepwise-solution
 
 
-Note: Hyperparameter Tuning i.e. 23rd script is commented because of laptop problem. It is taking a reasonable amount of time and showing memory error sometime so for now I commented that script.
